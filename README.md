@@ -26,7 +26,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 - Create a pull request
 - Star this repository
 
-# How to make your first Pull Request
+# How to make your first successful Pull Request
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -40,7 +40,7 @@ static/images/<YOUR-USERNAME>.png
 
 _Be aware, this picture will be displayed on the yearbook!_
 
-## 2. Add your profile information
+## 2. Add your profile information 
 
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
@@ -61,4 +61,4 @@ _Do not use special characters in the template above._
 
 ## 4. Wait for Pull Request to merge
 
-## 5. Celebrate - you've done your first pull request!!
+## 5. Celebrate - you've done your first pull request!!!
